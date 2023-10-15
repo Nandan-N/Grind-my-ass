@@ -1,2 +1,2 @@
-# Grind-my-ass
+# Video-Streaming-WebRTC
 Software Engineering course project
